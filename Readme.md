@@ -3,7 +3,7 @@
 
 * [ColumnBehavior.cs](./CS/Default MVVM/ColumnBehavior/ColumnBehavior.cs) (VB: [ColumnBehavior.vb](./VB/Default MVVM/ColumnBehavior/ColumnBehavior.vb))
 * [VisibilityConverter.cs](./CS/Default MVVM/ColumnBehavior/VisibilityConverter.cs) (VB: [VisibilityConverter.vb](./VB/Default MVVM/ColumnBehavior/VisibilityConverter.vb))
-* [MainWindow.xaml](./CS/Default MVVM/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/Default MVVM/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/Default MVVM/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Default MVVM/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/Default MVVM/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Default MVVM/MainWindow.xaml.vb))
 * [ViewModel.cs](./CS/Default MVVM/ViewModel.cs) (VB: [ViewModel.vb](./VB/Default MVVM/ViewModel.vb))
 <!-- default file list end -->
